@@ -1,6 +1,6 @@
 ---
 title: "Simple document"
-output: pdf_document
+output: github_document
 ---
 
 ```{r}
